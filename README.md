@@ -1,4 +1,4 @@
- 🏡 Real Estate House Price Prediction using Machine Learning
+ #🏡 Real Estate House Price Prediction using Machine Learning
 
 ## 📌 Project Overview
 
@@ -158,7 +158,7 @@ The project evaluates prediction performance using:
 
 # 📁 Project Structure
 
-
+```
 Real-Estate-House-Price-Prediction/
 
 │── dataset_2.csv
@@ -169,7 +169,7 @@ Real-Estate-House-Price-Prediction/
 │   ├── actual_vs_predicted.png
 │   ├── kmeans_clusters.png
 │   ├── prediction_error.png
-
+```
 
 ---
 

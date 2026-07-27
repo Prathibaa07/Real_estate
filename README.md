@@ -108,17 +108,24 @@ Generate graphs for:
 
 The project generates the following outputs:
 
-* Dataset Preview
-* Missing Value Report
-* Trained Linear Regression Model
-* Predicted House Price
-* R² Score
-* Actual vs Predicted Graph
-* K-Means Cluster Graph
-* Prediction Error Histogram
-* Prediction Results Table
+Mapping Cluster:
 
----
+<img width="897" height="570" alt="Screenshot 2026-07-27 094300" src="https://github.com/user-attachments/assets/a7ccdcce-8ae7-4028-a1d3-b9566680e139" />
+
+House Price Prediction:
+
+<img width="564" height="452" alt="Screenshot 2026-07-26 150710" src="https://github.com/user-attachments/assets/6ba40a5a-7938-49d1-b394-414b2186a103" />
+
+Prediction Error Distribution:
+
+<img width="699" height="548" alt="Screenshot 2026-07-26 151740" src="https://github.com/user-attachments/assets/1cf89ce0-2d95-4b40-a2cb-833da23ad06f" />
+
+K-Mean Clustering:
+
+<img width="524" height="468" alt="Screenshot 2026-07-26 150935" src="https://github.com/user-attachments/assets/db393939-b5f1-47ca-8255-8206b4c8cc34" />
+
+
+
 
 # 🤖 Machine Learning Algorithms Used
 
